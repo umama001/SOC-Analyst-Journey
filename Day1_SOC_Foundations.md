@@ -1,7 +1,7 @@
 # Day 1 – SOC Foundations
 
 ## 1. What is a SOC?
-- A SOC (Security Operations Center) is a team that monitors systems, networks, and security logs to detect, investigate, and respond to cyber threats.
+A SOC (Security Operations Center) is a team that monitors systems, networks, and security logs to detect, investigate, and respond to cyber threats.
 
 ## 2. SOC Roles
 List the main roles:
