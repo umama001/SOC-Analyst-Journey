@@ -24,3 +24,5 @@ Domain: youtube.com
 
 Explanation:  
 My computer sent a DNS request to the router (acting as a DNS server) to resolve the domain youtube.com.
+This shows normal browsing activity and does not appear suspicious.
+
