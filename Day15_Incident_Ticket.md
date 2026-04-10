@@ -16,7 +16,7 @@ A phishing email was received by the user "umama-PC" containing a malicious link
 ---
 
 ## Analysis
-The sequence of events suggests a likely phishing attack leading to credential compromise. The user interacted with a malicious domain which may have resulted in credential theft. This was followed by a successful login from an external IP, indicating unauthorized access. The execution of a PowerShell script using ExecutionPolicy Bypass suggests post-compromise activity, likely used to execute malicious commands or scripts.
+The sequence of events suggests a likely phishing attack leading to credential compromise. The user interacted with a malicious domain which likely resulted in credential theft. This was followed by a successful login from an external IP, indicating unauthorized access. The execution of a PowerShell script using ExecutionPolicy Bypass suggests post-compromise activity, likely used to execute malicious commands or scripts.
 
 ---
 
