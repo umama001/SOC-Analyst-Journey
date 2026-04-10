@@ -43,3 +43,16 @@ Real Threat – Confirmed Security Incident (Requires Immediate Response)
 
 ## Reason
 Multiple correlated indicators confirm malicious activity: phishing interaction, external unauthorized login, and execution of a PowerShell script with bypassed execution policy. This strongly indicates a successful phishing-based compromise requiring immediate containment.
+
+---
+
+## MITRE ATT&CK Mapping
+
+- Initial Access: Phishing (T1566)
+- Credential Access: Valid Accounts (T1078)
+- Execution: PowerShell (T1059.001)
+
+---
+
+## Severity Justification
+This incident is classified as High severity due to confirmed unauthorized access, execution of a suspicious script, and potential system compromise. The attacker has already gained access and executed commands, increasing the risk of further damage.
