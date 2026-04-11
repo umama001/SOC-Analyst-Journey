@@ -46,5 +46,5 @@ Web browsing sessions included access to:
 
 ---
 
-Conclusion
+## Conclusion
 The observed network activity represents normal web browsing behavior. No indicators of compromise or malicious activity were detected during this session.
