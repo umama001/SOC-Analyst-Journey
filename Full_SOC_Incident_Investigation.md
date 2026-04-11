@@ -1,7 +1,5 @@
 # 🚨 SOC Incident Report – Phishing Attack with Post-Exploitation Activity
 
----
-
 ## Incident Summary
 A security incident was identified involving user **umama-PC**, where a phishing email led to credential compromise, unauthorized access, and execution of a suspicious PowerShell script, indicating potential post-exploitation activity.
 
