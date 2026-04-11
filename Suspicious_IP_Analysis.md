@@ -1,7 +1,5 @@
 # 🌐 Suspicious IP Address Investigation Report
 
----
-
 ## Incident Summary
 A connection was detected between an internal system and an external IP address **185.199.110.153**, requiring analysis to determine whether the activity is legitimate or potentially malicious.
 
