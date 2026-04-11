@@ -9,7 +9,7 @@ An external IP address **185.199.110.153** was investigated using threat intelli
 - **IP Address:** 185.199.110.153  
 - **Activity:** External communication observed  
 - **Incident Type:** Threat Intelligence Validation  
-- **Severity:** Low (Suspicious indicators present, not confirmed malicious)
+- **Severity:** 🟡Low (Suspicious indicators present, not confirmed malicious)
 
 ---
 
