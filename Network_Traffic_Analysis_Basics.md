@@ -19,3 +19,6 @@ Analyze basic network traffic to understand how DNS requests work and determine 
 - This activity appears normal and expected
 - No indicators of malicious behavior detected
 - No suspicious domains or external communication observed
+
+## Conclusion
+The observed DNS traffic is legitimate and part of normal user activity. No further action is required.
